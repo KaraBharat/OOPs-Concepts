@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{001F89A1-7143-4F36-ACB2-253EB061DB65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contractor", "Contractor\Contractor.csproj", "{89A2DFC6-6746-49E2-98E3-327A5DD143FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constractor", "Contractor\Constractor.csproj", "{89A2DFC6-6746-49E2-98E3-327A5DD143FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{CF403131-3D84-4ECE-BC1B-23B5FD160C7D}"
 EndProject
